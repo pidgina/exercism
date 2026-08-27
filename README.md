@@ -27,6 +27,7 @@
 | 14 | Airport Robot | Обработка сообщений робота аэропорта | [Открыть](../../tree/exercism-sync/f6a021ebd2b0f56a) |
 | 15 | The Farm | Моделирование сущностей фермы | [Открыть](../../tree/exercism-sync/6bfa6ef3578b7212) |
 | 16 | Census | Сбор и обработка данных переписи | [Открыть](../../tree/exercism-sync/284df8da9262a491) |
+| 17 | Welcome To Tech Palace | Форматирование и работа с строками | [Открыть](../../tree/exercism-sync/a787ac5f772c0372) |
 
 ## Стек
 
